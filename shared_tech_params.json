@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAF": {
+            "name": "Papa Parse",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1581785748644x612892952682557000/papaparse.min.js"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": "1",
+        "use_jquery": true
+    }
+}
